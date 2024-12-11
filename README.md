@@ -1,4 +1,19 @@
 **Ultrasound Medial Elbow Dataset**
-![image](https://github.com/user-attachments/assets/d22699d7-b3f5-486a-8769-613e7443e527)
-We will upload all the dataset after our paper is published.
-please contact us if you need the data.
+![image](https://github.com/user-attachments/assets/cfa5d51d-1fb8-471f-aef5-e950828ca029)
+
+
+All landmarks are located on the humerus or ulna : 
+1) Distal end of humeral trochlea
+2) Proximal end of ulnar coronoid process
+3) Tip of humeral medial epicondyle
+4) Deep end of the intersection of humeral medial epicondyle and ulnar collateral ligament
+5) Distal end of humeral medial epicondyle
+6)  Proximal point adjacent to point 1 on the center of hyperechoic line of humeral trochlea
+7)  Distal point adjacent to point 2 on the center of hyperechoic line of ulnar coronoid process
+8)  Distal point of ulnar coronoid process.
+
+We will make the entire dataset publicly available after the publication of our paper.
+
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
+For details, visit: https://creativecommons.org/licenses/by-nc/4.0/
+
