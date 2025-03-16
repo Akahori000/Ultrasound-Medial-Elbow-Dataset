@@ -1,3 +1,6 @@
+For reviewers, the dataset link during the review process is provided in the supplementary material.
+
+
 **Ultrasound Medial Elbow Dataset**
 ![image](https://github.com/user-attachments/assets/cfa5d51d-1fb8-471f-aef5-e950828ca029)
 
