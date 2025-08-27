@@ -19,7 +19,7 @@ We will make the entire dataset publicly available after the publication of our 
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
 For details, visit: https://creativecommons.org/licenses/by-nc/4.0/
-[[Dataset link](https://drive.google.com/drive/folders/1W7aGpN6qTFb3Hl_uPF7Hvq2AApEumfWs?usp=sharing)]
+[dataset link](https://drive.google.com/drive/folders/1W7aGpN6qTFb3Hl_uPF7Hvq2AApEumfWs?usp=sharing)
 
 
 
