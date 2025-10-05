@@ -2,7 +2,8 @@
 **Ultrasound Medial Elbow Dataset**
 
 This dataset is part of the study presented in our [paper](https://ieeexplore.ieee.org/document/11141388?source=authoralert).
-
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
+For details, visit: https://creativecommons.org/licenses/by-nc/4.0/
 
 ![image](https://github.com/user-attachments/assets/cfa5d51d-1fb8-471f-aef5-e950828ca029)
 
@@ -19,12 +20,5 @@ All landmarks are located on the humerus or ulna :
 
 We will make the entire dataset publicly available after the publication of our paper.
 
-This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
-For details, visit: https://creativecommons.org/licenses/by-nc/4.0/
-
 dataset link: https://drive.google.com/drive/folders/1W7aGpN6qTFb3Hl_uPF7Hvq2AApEumfWs?usp=sharing
-
-ｖ
-
-
 
