@@ -4,7 +4,6 @@
 This dataset is part of the study presented in our [paper](https://ieeexplore.ieee.org/document/11141388?source=authoralert).
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
-
 For details, visit: https://creativecommons.org/licenses/by-nc/4.0/
 
 ![image](https://github.com/user-attachments/assets/cfa5d51d-1fb8-471f-aef5-e950828ca029)
@@ -20,7 +19,13 @@ All landmarks are located on the humerus or ulna :
 7)  Distal point adjacent to point 2 on the center of hyperechoic line of ulnar coronoid process
 8)  Distal point of ulnar coronoid process.
 
-We will make the entire dataset publicly available after the publication of our paper.
-
 dataset link: https://drive.google.com/drive/folders/1W7aGpN6qTFb3Hl_uPF7Hvq2AApEumfWs?usp=sharing
+
+
+Citation
+
+If you use this dataset in your research, please cite the following paper:
+
+S. Akahori et al., “Measurement of Medial Elbow Joint Space Using Landmark Detection,” IEEE Access, vol. 13, pp. 152365–152376, 2025.
+DOI: 10.1109/ACCESS.2025.3602503
 
