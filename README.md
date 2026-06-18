@@ -26,6 +26,11 @@ Citation
 
 If you use this dataset in your research, please cite the following paper:
 
-S. Akahori et al., “Measurement of Medial Elbow Joint Space Using Landmark Detection,” IEEE Access, vol. 13, pp. 152365–152376, 2025.
-DOI: 10.1109/ACCESS.2025.3602503
-
+```bibtex
+@ARTICLE{11141388,
+  author={Akahori, Shizuka and Teruya, Shotaro and Shrestha, Pragyan and Yoshii, Yuichi and Michinobu, Ryuhei and Iizuka, Satoshi and Ikumi, Akira and Tsuge, Hiromitsu and Kitahara, Itaru},
+  journal={IEEE Access}, 
+  title={Measurement of Medial Elbow Joint Space Using Landmark Detection}, 
+  year={2025},
+  doi={10.1109/ACCESS.2025.3602503}}
+```
